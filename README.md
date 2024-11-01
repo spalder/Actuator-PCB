@@ -1,6 +1,6 @@
 # actuator-module PCB
 
-This repository contains the hardware design and documentation for a custom PCB developed for the actuation of solenoid and servo valves in a biliquid rocket engine. Created by Fredrik Spalder through Propulse NTNU, this project provides the necessary hardware for controlled actuation in a high-stress, high-performance rocket propulsion environment.
+This repository contains the hardware design and documentation for a custom PCB developed for the actuation of solenoid and servo valves in a biliquid rocket engine. Created by Fredrik Spalder through Propulse NTNU, this project provides the necessary hardware for controlled actuation in a high-stress, high-performance rocket propulsion environment. The design is the second iteration of a previous version.
 
 
 ## Table of Contents
