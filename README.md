@@ -31,6 +31,7 @@ The purpose of this project is to develop a reliable, high-performance PCB for c
 - **Solenoid Actuation:** Uses a 24V switch with actuation signals from the ECU to deliver power to the solenoids
 - **Servo Actuation:** Uses PWM and 12V from the ECU to deliver power to the servos
 - **Servo Position:** Provides ECU with servo position measurement based on magnetic encoding
+- **Current draw:** Provides the ECU with data on the current drawn from each servo and solenoid separately
 - **Protection:** Overcurrent and thermal protection features
 - **PCB Layers:** The PCB contains power & ground planes
 - **Connector Types:** WR-PHD Pin headers for connecting to the ECU. Servo and solenoid cabling is soldered directly on to the pcb
