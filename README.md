@@ -10,7 +10,6 @@ This repository contains the hardware design and documentation for a custom PCB 
 - [Hardware Specifications](#hardware-specifications)
 - [Schematics and PCB Layout](#schematics-and-pcb-layout)
 - [Installation and Setup](#installation-and-setup)
-- [License](#license)
 
 ## Overview
 
@@ -66,7 +65,3 @@ To prepare the PCB for use:
 - Soldering tools and materials for assembly
 - Power supply suitable for initial testing
 - Multimeter and oscilloscope for verification
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
