@@ -1,6 +1,7 @@
-# actuator-module PCB
+![IMG 6400](https://github.com/user-attachments/assets/d08fb844-2fa7-4323-88d1-3a5b8150ecd0)# actuator-module PCB
 
 This repository contains the hardware design and documentation for a custom PCB developed for the actuation of solenoid and servo valves in a biliquid rocket engine. Created by Fredrik Spalder through Propulse NTNU, this project provides the necessary hardware for controlled actuation in a high-stress, high-performance rocket propulsion environment.
+
 
 ## Table of Contents
 
@@ -44,15 +45,20 @@ Detailed schematics and PCB layout files are available in the `/hardware` direct
 - Bill of Materials (BOM) listing all components with part numbers and specifications
 
 > **Note:** Files are designed for fabrication and can be sent to a PCB manufacturer directly.
+![[IMG_6322.png]]
+![[Actuator Module Schematic.pdf]]
 
 ## Installation and Setup
 
 To prepare the PCB for use:
 
 1. **Fabrication:** Use provided Gerber files to manufacture the PCB.
+   ![[Actuator PCB 6306.jpg]]
 2. **Assembly:** Solder components according to the BOM.
+   ![[IMG 6400.jpg]]
 3. **Testing:** Follow testing procedures to verify board integrity before installation.
 4. **Integration:** Connect the board to the ECU, ensuring proper connections for the solenoid and servo valves.
+   ![[IMG_6578.jpeg]]
 
 ### Prerequisites
 
