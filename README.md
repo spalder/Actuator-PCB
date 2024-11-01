@@ -47,19 +47,19 @@ Detailed schematics and PCB layout files are available in the `/hardware` direct
 > **Note:** Files are designed for fabrication and can be sent to a PCB manufacturer directly.
 
 ![image](https://github.com/spalder/Actuator-PCB/blob/main/images/IMG_6322.PNG)
-![Actuator Module Schematic.pdf](Schematic)
+![Actuator Module Schematic.pdf](https://github.com/spalder/Actuator-PCB/blob/main/hardware/Actuator%20Module%20Schematic.pdf)
 
 ## Installation and Setup
 
 To prepare the PCB for use:
 
 1. **Fabrication:** Use provided Gerber files to manufacture the PCB.
-   ![Actuator PCB 6306.jpg](jpg)
+   ![Actuator PCB 6306.jpg](https://github.com/spalder/Actuator-PCB/blob/main/images/Actuator%20PCB%206396.jpg)
 2. **Assembly:** Solder components according to the BOM.
-   ![[IMG 6400.jpg]]
+   ![IMG 6400.jpg](https://github.com/spalder/Actuator-PCB/blob/main/images/IMG%206400.jpg)
 3. **Testing:** Follow testing procedures to verify board integrity before installation.
 4. **Integration:** Connect the board to the ECU, ensuring proper connections for the solenoid and servo valves.
-   ![[IMG_6578.jpeg]]
+   ![IMG_6578.jpeg](https://github.com/spalder/Actuator-PCB/blob/main/images/IMG_6578.jpeg)
 
 ### Prerequisites
 
